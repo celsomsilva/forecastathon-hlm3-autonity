@@ -1,0 +1,112 @@
+# ==========================
+# System files
+# ==========================
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.swp
+
+# ==========================
+# Python cache and build files
+# ==========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# ==========================
+# R temporary files
+# ==========================
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+*.Rproj
+
+# ==========================
+# Jupyter and logs
+# ==========================
+.ipynb_checkpoints/
+*.log
+*.out
+*.aux
+notebooks/.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+logs/
+
+# ==========================
+# Data files (ignore raw or heavy data)
+# ==========================
+data/raw/
+data/interim/
+data/tmp/
+*.csv
+*.xlsx
+*.sav
+*.sas7bdat
+*.parquet
+*.feather
+*.rds
+*.pkl
+
+# ==========================
+# Model training outputs
+# ==========================
+models/
+checkpoints/
+*.h5
+*.pt
+*.pth
+*.joblib
+
+# ==========================
+# Blockchain / Autonity specific
+# ==========================
+.env
+.env.*
+*.key
+*.pem
+*.crt
+*.json
+keystore/
+wallets/
+*.abi
+*.bin
+
+# ==========================
+# IDE configuration
+# ==========================
+.vscode/
+.idea/
+*.code-workspace
+
+# ==========================
+# Generated outputs (figures, reports)
+# ==========================
+figs/
+outputs/
+reports/
+*.pdf
+*.html
+*.md.html
+
+# ==========================
+# OS / temporary archives
+# ==========================
+__MACOSX/
+*.zip
+*.tar
+*.tar.gz
+
