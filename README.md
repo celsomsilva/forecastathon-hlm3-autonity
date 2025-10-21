@@ -1,8 +1,8 @@
 [![Forecastathon 2025](https://img.shields.io/badge/Forecastathon-2025-blue)](https://forecastathon.ai)
 [![Python 3.10+](https://img.shields.io/badge/Built%20with-Python%203.10+-yellow)](https://www.python.org/)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[!Blockchain](https://img.shields.io/badge/Blockchain-Autonomy-blue)
-[!Autonity](https://img.shields.io/badge/blockchain-Autonity-orange)
+[Blockchain](https://img.shields.io/badge/Blockchain-Autonomy-blue)
+[Autonity](https://img.shields.io/badge/blockchain-Autonity-orange)
 
 # Forecastathon-HLM3-Autonity
 
