@@ -1,8 +1,13 @@
 [![Forecastathon 2025](https://img.shields.io/badge/Forecastathon-2025-blue)](https://forecastathon.ai)
 [![Python 3.10+](https://img.shields.io/badge/Built%20with-Python%203.10+-yellow)](https://www.python.org/)
+![R](https://img.shields.io/badge/R-4.4.0-blue?logo=r)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[Blockchain](https://img.shields.io/badge/Blockchain-Autonomy-blue)
-[Autonity](https://img.shields.io/badge/blockchain-Autonity-orange)
+![Blockchain](https://img.shields.io/badge/Blockchain-Autonomy-blue)
+![Autonity](https://img.shields.io/badge/blockchain-Autonity-orange)
+![Blockchain](https://img.shields.io/badge/Blockchain-Autonomy-blue)
+![AI](https://img.shields.io/badge/AI-Forecasting-green)
+![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 
 # Forecastathon-HLM3-Autonity
 
