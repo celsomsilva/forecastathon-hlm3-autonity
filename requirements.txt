@@ -1,10 +1,18 @@
+# Core
 pandas>=2.0.0
 numpy>=1.26.0
 matplotlib>=3.8.0
 scikit-learn>=1.5.0
+
+# R Bridge
 rpy2>=3.5.15
+
+# Blockchain / Env
 requests>=2.32.0
 web3>=6.15.0
 python-dotenv>=1.0.1
+
+# Jupyter / Utilities
 jupyter>=1.0.0
+tqdm>=4.66.0
 
